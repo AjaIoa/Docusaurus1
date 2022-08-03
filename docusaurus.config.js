@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Docusaurus',
+  tagline: 'Documenter c\'est cool',
   url: 'https://AjaIoa.github.io',
   baseUrl: '/Docusaurus1/',
   onBrokenLinks: 'throw',
@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/snap.png',
         },
         items: [
           {
@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/AjaIoa/Docusaurus1/',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/AjaIoa/Docusaurus1',
               },
             ],
           },
