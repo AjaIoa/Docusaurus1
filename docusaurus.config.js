@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus',
+  title: 'Docusaurus TEST',
   tagline: 'Documenter c\'est cool',
   url: 'https://AjaIoa.github.io',
   baseUrl: '/Docusaurus1/',
